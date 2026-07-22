@@ -1,0 +1,6 @@
+{
+  "name": "XiaoLuo-Emotion-Director-Studio",
+  "description": "AI Character Emotion Control System - Direction matrix, micro-expression parameters, and prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
